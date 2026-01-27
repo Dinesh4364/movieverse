@@ -31,9 +31,11 @@ MovieVerse is a modern **React-based movie discovery application** that fetches 
 
 ## 📸 Screenshots
 
-_Add screenshots or GIFs here to make your repository stand out._
 
----
+---<img width="1918" height="1124" alt="Homepage" src="https://github.com/user-attachments/assets/4aa6f0d4-0688-4a49-a8ae-f5c8269c89b0" />
+<img width="1252" height="990" alt="Search_Result" src="https://github.com/user-attachments/assets/f11dc14d-2ef3-4a20-b921-0fc4c46aadcc" />
+<img width="1885" height="490" alt="Trending_Searches" src="https://github.com/user-attachments/assets/32c10e6a-c9d5-46f8-8434-a642107588ff" />
+
 
 ## ⚙️ Installation & Setup
 
