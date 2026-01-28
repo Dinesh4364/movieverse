@@ -2,6 +2,7 @@
 
 MovieVerse is a modern **React-based movie discovery application** that fetches real-time movie data from the **TMDB API** and presents it with a clean, responsive UI. Users can search for movies, view popular titles, and explore trending searches tracked using **Appwrite (Backend as a Service)**.
 
+🌐 **Live Demo:** https://movieverse-beta-plum.vercel.app/
 ---
 
 ## 🚀 Features
